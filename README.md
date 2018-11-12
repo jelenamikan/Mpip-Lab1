@@ -16,7 +16,7 @@
 
 ### 3. ImplicitActivity
 
-- Треба да се повика при акцијата: *mk.ukim.finki.mpip.IMPLICIT_ACTION*
+- Треба да се повика при акцијата: *mk.ukim.finki.mpip.IMPLICIT_ACTION*.
 
 - Ова Activity содржи листа (TextView) во која ги прикажува имињата на класите на ситерегистрирани Activity-а во оперативниот систем со категорија *android.intent.category.LAUNCHER* и акција *android.intent.action.MAIN*.
 
